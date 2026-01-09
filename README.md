@@ -13,7 +13,7 @@ This repository  contains my PowerBI Dashboards , Datasets and Project documenta
 
 ## Projects
 
-#1- Sales Dashboard(coming soon )
+#1- Sales Dashboard
 -Analyzed monthly and regional sales performance
 -Created interactive charts and KPI cards 
 -Used Power Query for data cleaning
